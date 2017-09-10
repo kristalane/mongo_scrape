@@ -1,4 +1,4 @@
-
+// TODO link this file to other things
 
 // Grab the articles as a json, loop through results and display
 $.getJSON("/articles", function(data) {
