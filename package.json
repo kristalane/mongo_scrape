@@ -1,0 +1,27 @@
+{
+  "name": "mongo_scrape",
+  "version": "1.0.0",
+  "description": "learning to scrape, display, save and remove data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristalane/mongo_scrape.git"
+  },
+  "author": "kristalane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristalane/mongo_scrape/issues"
+  },
+  "homepage": "https://github.com/kristalane/mongo_scrape#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.10",
+    "request": "^2.81.0"
+  }
+}
